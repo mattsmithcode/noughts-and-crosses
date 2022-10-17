@@ -1,0 +1,21 @@
+{
+  "name": "noughts-and-crosses",
+  "version": "0.1.0",
+  "main": "dist/game.js",
+  "scripts": {
+    "start": "node dist/play.js",
+    "build": "tsc -p tsconfig.json",
+    "build:run": "npm run build && npm start",
+    "test": "jest"
+  },
+  "author": "Matt Smith",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/jest": "^27.4.0",
+    "@types/node": "^18.11.0",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3",
+    "typescript": "^4.5.5"
+  }
+}
