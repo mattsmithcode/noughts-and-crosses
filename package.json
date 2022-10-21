@@ -1,5 +1,5 @@
 {
-  "name": "noughts-and-crosses",
+  "name": "@mattsmithcode/noughts-and-crosses",
   "version": "0.1.0",
   "main": "dist/game.js",
   "scripts": {

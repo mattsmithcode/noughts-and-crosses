@@ -1,0 +1,9 @@
+.github/
+assets/
+dist/play.d.ts
+dist/play.js
+src/
+tests/
+jest.config.js
+README.md
+tsconfig.json
